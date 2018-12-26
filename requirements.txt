@@ -1,0 +1,5 @@
+lxml
+requests
+pyexcel_xls
+pyexcel-xlsx
+pyexcel-xlsxw
