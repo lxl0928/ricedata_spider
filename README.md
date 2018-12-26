@@ -1,6 +1,6 @@
 # ricedata_spider
 
-ricedata.cn上面的http://www.ricedata.cn/gene/accessions_switch.aspx?p=1&amp;cloned=true 列表页数据的爬取。
+ricedata.cn上面的http://www.ricedata.cn/gene/accessions_switch.aspx?p=1&cloned=true 列表页数据的爬取。
 
 ## 存储
 *.json, Excel表
