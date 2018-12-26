@@ -29,11 +29,11 @@ data = {
 import json
 import urllib.request
 from datetime import datetime
-
-from lxml import etree
 from collections import OrderedDict
 
+from lxml import etree
 from pyexcel_xls import save_data
+
 
 cnt_now = datetime.now()
 cnt_time = "{}{}{}{}{}".format(cnt_now.year, cnt_now.month, cnt_now.day, cnt_now.hour, cnt_now.minute)
